@@ -1,0 +1,16 @@
+git rm --cache testing.py
+    git status
+    git add.
+    git add .
+    git status
+    git commit -m " added testing.py"
+    git status
+    git add .
+    git status
+    git commit  -m "added testing files"
+    rm testing.py
+    ls -l
+    git status
+    git add testing.py
+    git status
+    git restore testing.py
